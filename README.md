@@ -9,6 +9,7 @@ SocksServer is a reverse socks5 proxy for infiltration.
 
 
 HostA : A host can be accessed by the Internet with public IP address 6.7.8.9
+
 HostB : Behind the firewall and cannot be accessed by the Internet
 
 
